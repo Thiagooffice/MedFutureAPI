@@ -20,7 +20,7 @@ O objetivo é fornecer uma solução robusta para gerenciar informações de pes
 
 Este projeto utiliza as seguintes tecnologias:
 
-- **.NET 7:** A plataforma de desenvolvimento da Microsoft para criar aplicativos modernos e de alto desempenho.
+- **.NET 8:** A plataforma de desenvolvimento da Microsoft para criar aplicativos modernos e de alto desempenho.
   
 - **Entity Framework Core:** Um ORM (Object-Relational Mapper) que facilita a interação com o banco de dados, proporcionando uma maneira intuitiva e produtiva de trabalhar com dados.
 
