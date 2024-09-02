@@ -14,6 +14,8 @@ Este projeto é um CRUD completo de pessoas, que permite realizar as seguintes o
 
 O objetivo é fornecer uma solução robusta para gerenciar informações de pessoas, utilizando as melhores práticas de desenvolvimento e as tecnologias mais modernas.
 
+![printImage](https://github.com/user-attachments/assets/fc909851-4c65-45b0-b63e-0de98ba62900)
+
 ## 🚀 Tecnologias Usadas
 
 Este projeto utiliza as seguintes tecnologias:
